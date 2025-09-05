@@ -1,18 +1,1 @@
 {
-  "name": "medien-verwaltung",
-  "version": "1.0.0",
-  "description": "Die Anwendung zur Verwaltung von Medieninhalten",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.7"
-  },
-  "author": "Neuer Aktualisierter Autor Name",
-  "license": "MIT"
-}
